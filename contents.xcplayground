@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Fibonacci'/>
+        <page name='Binary Search'/>
+        <page name='Is Prime'/>
+        <page name='Is Ugly'/>
+        <page name='Is Power Of Two'/>
+        <page name='Is Power Of Three'/>
+        <page name='Count Primes'/>
+        <page name='Bubble Sort'/>
+        <page name='Selection Sort'/>
+        <page name='Insertion Sort'/>
+        <page name='Merge Sort'/>
+        <page name='Quick Sort'/>
+        <page name='Linked List Cycle'/>
+        <page name='Linked List Intersection'/>
+        <page name='Linked List Reversion'/>
+        <page name='Linked List Merge'/>
+        <page name='Linked List Print Reversely'/>
+        <page name='Linked List Remove'/>
+        <page name='Linked List Deduplicate'/>
+        <page name='Linked List Partition'/>
+        <page name='Array Major Element'/>
+        <page name='Array Single Number'/>
+        <page name='Array Missing Number'/>
+        <page name='Array Move Zeros'/>
+        <page name='Array Remove'/>
+        <page name='Array Sort Colors'/>
+        <page name='Array Two Sum II'/>
+        <page name='Array Minimum Size Subarray Sum'/>
+        <page name='Array Top K Frequent Elements'/>
+    </pages>
+</playground>
