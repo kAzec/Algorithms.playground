@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Algorithms_Sources
 
 func printReversely<Value>(_ node: Node<Value>) {

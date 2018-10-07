@@ -1,4 +1,3 @@
-
 extension BinaryInteger {
     var isPrime: Bool {
         if self <= 1 {

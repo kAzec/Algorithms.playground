@@ -1,4 +1,3 @@
-
 extension BinaryInteger {
     var isUgly: Bool {
         if self <= 0 {

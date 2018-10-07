@@ -1,5 +1,4 @@
-
-extension Array  {
+extension Array {
     mutating func remove(where predicate: (Element) throws -> Bool) rethrows -> Int {
         var k = 0
         

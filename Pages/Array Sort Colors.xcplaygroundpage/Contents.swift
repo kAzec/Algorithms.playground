@@ -1,4 +1,3 @@
-
 extension Array where Element == Int {
     mutating func sortColors() {
         var lo = 0, mi = 0, hi = count - 1

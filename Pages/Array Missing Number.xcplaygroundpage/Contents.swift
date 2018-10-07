@@ -1,4 +1,3 @@
-
 extension Array where Element == Int {
     var missing: Int {
         let count = self.count

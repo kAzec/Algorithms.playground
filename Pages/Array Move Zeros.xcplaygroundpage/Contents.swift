@@ -1,4 +1,3 @@
-
 extension Array where Element == Int {
     mutating func moveZeros() {
         var k = 0

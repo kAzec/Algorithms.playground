@@ -1,4 +1,3 @@
-
 extension Collection where Element : Comparable, Index == Int {
     func search(for element: Element) -> Int {
         return search(for: element, in: 0..<endIndex)

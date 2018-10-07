@@ -1,4 +1,3 @@
-
 import Algorithms_Sources
 
 extension Node where Value : Equatable {

@@ -1,5 +1,3 @@
-import Foundation
-
 extension BinaryInteger {
     var isPowerOfTwo: Bool {
         if self <= 0 {

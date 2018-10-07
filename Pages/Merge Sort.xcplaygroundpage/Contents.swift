@@ -1,4 +1,3 @@
-
 extension RangeReplaceableCollection {
     func mergeSorted(by areInIncreasingOrder: (Element, Element) throws -> Bool) rethrows -> Self {
         return try mergeSorted(within: startIndex..<endIndex, by: areInIncreasingOrder)

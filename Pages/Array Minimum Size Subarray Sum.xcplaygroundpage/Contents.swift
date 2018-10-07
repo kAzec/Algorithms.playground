@@ -1,4 +1,3 @@
-
 func findSubarrayLength(withMimumumSum minimumSum: Int, in numbers: [Int]) -> Int {
     guard !numbers.isEmpty else {
         return 0

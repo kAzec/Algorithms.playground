@@ -1,4 +1,3 @@
-
 func fibonacci(_ n: UInt) -> UInt {
     switch n {
     case 0: return 0

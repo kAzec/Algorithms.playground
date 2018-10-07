@@ -1,4 +1,3 @@
-
 import Algorithms_Sources
 
 extension BinaryTree {
@@ -114,7 +113,7 @@ extension BinaryTree {
         }
     }
     
-    struct BreadthFirstIterator : IteratorProtocol, Sequence {
+    struct LevelOrderIterator : IteratorProtocol, Sequence {
         private var head = 0
         private var queue = ContiguousArray<BinaryTree?>()
         
@@ -218,5 +217,5 @@ do {
 }
 
 do {
-    assert(Array(BinaryTree<Int>.BreadthFirstIterator(tree: tree)) == [0, 1, 2, 3, 4, 5, 6, 7])
+    assert(Array(BinaryTree<Int>.LevelOrderIterator(tree: tree)) == [0, 1, 2, 3, 4, 5, 6, 7])
 }

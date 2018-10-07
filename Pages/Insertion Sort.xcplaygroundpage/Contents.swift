@@ -1,4 +1,3 @@
-
 extension MutableCollection where Self : BidirectionalCollection {
     mutating func insertionSort(by areInIncreasingOrder: (Element, Element) throws -> Bool) rethrows {
         for var i in indices {

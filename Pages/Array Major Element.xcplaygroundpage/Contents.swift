@@ -1,4 +1,3 @@
-
 extension Collection where Element : Equatable {
     var major: Element? {
         guard var candidate = first else {

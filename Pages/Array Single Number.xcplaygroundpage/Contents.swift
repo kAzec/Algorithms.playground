@@ -1,4 +1,3 @@
-
 extension Array where Element == Int {
     var single: Int {
         var result = 0
